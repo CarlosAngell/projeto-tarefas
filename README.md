@@ -1,2 +1,2 @@
 # projeto-tarefas
-Projeto de tarefas
+Projeto sobre notificações de tarefas
